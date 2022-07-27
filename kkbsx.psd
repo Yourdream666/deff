@@ -1,4 +1,4 @@
 <?php
 header("Location: https://allurelotto.com/slot-gacor/",TRUE,301);
-exit;
+exit();
 ?>
